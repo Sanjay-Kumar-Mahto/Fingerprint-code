@@ -1,4 +1,4 @@
 # Fingerprint-code
 This is my first Git Repository.
 <br>
-Author - Sanjay
+Author - Sanjay Kumar
